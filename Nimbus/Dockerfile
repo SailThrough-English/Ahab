@@ -1,7 +1,7 @@
 # Use the official Node.js 14 image as the base image
 FROM node:20
 # Set the working directory inside the container
-RUN npm i -g yarn typescript ts-node
+RUN npm i -g typescript ts-node
 WORKDIR /app
 
 # Copy package.json and yarn.lock to the working directory
