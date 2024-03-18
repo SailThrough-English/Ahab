@@ -28,10 +28,10 @@ disqusShortname = 'SailThrough'   # use disqus comments
 
   # giscus
 [params.giscus]
-  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
-  repoId = 'YOUR_GISCUS_REPO_ID'
-  category = 'YOUR__GISCUS_CATEGORY'
-  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+  repo = 'SailThrough-English/Ahab'                 # see https://giscus.app for more details
+  repoId = 'R_kgDOLh668g'
+  category = 'General'
+  categoryId = 'DIC_kwDOLh668s4CeDLG'
   mapping = 'pathname'
   theme = 'light'
   lang = 'pt-BR'
